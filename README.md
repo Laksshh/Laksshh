@@ -6,7 +6,7 @@ As a motivated and detail-oriented MERN Full Stack Developer with 6 months of ha
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://laksshh.github.io/Profile/)
 
 ### Social Media 📡:
-- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpit-suiwal-6729691aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshya-soni-508207251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 ---
 # Skills
 Frontend: HTML, CSS, JavaScript, React.JS, Next.JS, TypeScript
