@@ -103,7 +103,7 @@ Learning Management System (LMS)
 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=suiwal&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://github-readme-stats.vercel.app/api?username=Laksshh&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
 </p>
 
 ---
