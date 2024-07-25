@@ -109,8 +109,8 @@ Learning Management System (LMS)
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=suiwal&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suiwal&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Laksshh&theme=vue-dark&hide_border=false">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksshh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
 </p>
 
 ---
