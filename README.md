@@ -56,7 +56,7 @@ DevOps Basics: Applied DevOps principles to streamline development workflows and
 
 ---
 
-## Projects
+# Projects
 
 ### E-Commerce Web Application
  Technologies: React.JS, Next.JS, Express, MongoDB, MySQL, Docker, AWS
