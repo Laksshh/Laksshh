@@ -14,17 +14,15 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lakshya-soni-508207251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 ---
 # Skills
-Frontend: HTML, CSS, JavaScript, React.JS, Next.JS, TypeScript
+Programming Languages: C , Python , Java , Javascript.
 
-Backend: Express, MongoDB, MySQL
-
-DevOps & Cloud: Docker, CI/CD, AWS Basics, DevOps Practices
+Backend: MySQL.
 
 Version Control: GitHub
 
-Generative AI: ChatGPT, AI Integration
+Generative AI: ChatGPT, AI Integration.
 
-Tools: VS Code, Git, Docker CLI, AWS Management Console
+Tools: VS Code, Git.
 
 ---
 
@@ -35,26 +33,12 @@ Tools: VS Code, Git, Docker CLI, AWS Management Console
 SOFTRAW IT SOLUTIONS PVT LTD
 
 [3 June] – [30 July]
+– Practicing Most Active Framework React Js.
 
-Frontend Development: Designed and implemented user interfaces using HTML, CSS, and JavaScript, ensuring responsive and visually appealing layouts.
+– Implementing Real Life Projects with Team Members Using Html, Css ,JavaScript .
 
-React.JS & Next.JS: Developed dynamic web applications and single-page applications (SPAs) using React.JS and Next.JS, enhancing user experience with interactive features.
+– Building Portfolio in Bootstrap and JavaScript.
 
-Backend Development: Created and managed RESTful APIs using Express, integrated with MongoDB and MySQL databases to support data storage and retrieval.
-
-TypeScript: Utilized TypeScript to improve code quality and maintainability through type safety and better tooling.
-
-GitHub: Managed version control with GitHub, including branch management, pull requests, and collaborative coding practices.
-
-Generative AI: Implemented ChatGPT for natural language processing tasks and explored Generative AI applications in development.
-
-Docker: Containerized applications using Docker, simplifying deployment and scaling processes.
-
-CI/CD: Contributed to CI/CD pipelines to automate testing, integration, and deployment processes, enhancing development efficiency.
-
-AWS Basics: Gained foundational knowledge of AWS services and cloud infrastructure to support scalable and reliable application deployment.
-
-DevOps Basics: Applied DevOps principles to streamline development workflows and improve collaboration between development and operations teams.
 
 ---
 
@@ -72,11 +56,6 @@ DevOps Basics: Applied DevOps principles to streamline development workflows and
  processes.
  Achievements: Achieved seamless real-time communication with an average latency of less than 200ms, and deployed the application with Docker, reducing deployment time by 50%.
 
-### Blog Platform with Markdown Support
- Technologies: Next.JS, MongoDB, Express, TypeScript, GitHub
- Description: Built a blog platform that supports Markdown for writing and formatting blog posts. Leveraged Next.JS for server-side rendering, MongoDB for data storage, and Express for API development. Utilized 
- TypeScript for type safety and GitHub for version control.
- Achievements: Implemented a WYSIWYG editor for Markdown, enhancing user experience, and reduced bug reports by 30% through TypeScript’s type safety features.
 
 ### Portfolio Website
  Technologies: HTML, CSS, JavaScript, GitHub
@@ -84,27 +63,22 @@ DevOps Basics: Applied DevOps principles to streamline development workflows and
  control using GitHub.
  Achievements: Improved visibility and outreach with a professional online presence, resulting in a 40% increase in project inquiries.
 
-### Learning Management System (LMS)
- Technologies: React.JS, Node.js, MongoDB, Express, TypeScript, Docker
- Description: Developed a Learning Management System to facilitate online learning and course management. Implemented features such as user registration, course enrollment, progress tracking, and interactive 
- content delivery. Utilized React.JS for the frontend, Node.js and Express for backend services, and MongoDB for database management. Dockerized the application for consistent deployment across environments.
- Achievements: Successfully integrated course management features, improved user engagement by 25%, and streamlined administrative tasks through automated progress tracking.
 
 ## Languages and Tools 🛠
 ### Languages:
 | HTML | CSS | JavaScript |
-|--------|---|------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> |
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/> 
 
 ### Best Frameworks and Libraries for Front-End:
-| Bootstrap | TypeScript | Tailwind | React | Angular | Vue |
-|---------|----------|-------|--------|---------|--------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="55" height="55"/> |
+| Bootstrap | TypeScript |
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/> 
 
 ### Databases:
-| MySQL | MongoDB | PostgreSQL |
-|---------|-------|--------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/> | 
+| MySQL |
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/> 
 
 
 <p align="center">
